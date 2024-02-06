@@ -40,7 +40,7 @@ h2{
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background-color: yellow;
+    background-color: rgb(38, 221, 38);
     opacity: .8;
 }
 .clock #ampm{
@@ -49,4 +49,5 @@ h2{
     width: 60px;
     height: 30px;
     font-size: 20px;
-    background: palegreen;
+    background: rgb(17, 134, 17);
+}
